@@ -8,6 +8,17 @@ body {
     background-color: #d9dcd6;
 }
 
+.content img {
+    max-height: 200px
+}
+
+.content h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+   
+
+
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
